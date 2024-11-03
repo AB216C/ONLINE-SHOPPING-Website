@@ -1,0 +1,13 @@
+button {
+    font-size:15px;
+    color:white;
+    background-color:rgb(63, 43, 14);
+}
+
+.header {
+    width:1000px;
+    height:50px;
+    margin: 2px solid black;
+}
+
+
